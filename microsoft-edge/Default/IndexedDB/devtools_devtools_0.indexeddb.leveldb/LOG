@@ -1,0 +1,5 @@
+2024/10/30-20:38:13.130 9c9 Creating DB /home/administrador/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb since it was missing.
+2024/10/30-20:38:13.134 9c9 Reusing MANIFEST /home/administrador/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/30-20:38:18.875 9cc Level-0 table #5: started
+2024/10/30-20:38:18.914 9cc Level-0 table #5: 2550513 bytes OK
+2024/10/30-20:38:18.920 9cc Delete type=0 #3

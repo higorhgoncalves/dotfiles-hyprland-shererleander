@@ -1,0 +1,6 @@
+2024/10/30-20:21:08.844 9ca Reusing MANIFEST /home/administrador/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/10/30-20:21:08.845 9ca Recovering log #4
+2024/10/30-20:21:08.851 9ca Reusing old log /home/administrador/.config/microsoft-edge/Default/Sync Data/LevelDB/000004.log 
+2024/10/30-20:36:17.763 9cb Level-0 table #8: started
+2024/10/30-20:36:17.770 9cb Level-0 table #8: 118960 bytes OK
+2024/10/30-20:36:17.773 9cb Delete type=0 #4

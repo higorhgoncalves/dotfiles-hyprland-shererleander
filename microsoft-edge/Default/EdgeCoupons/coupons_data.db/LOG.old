@@ -1,0 +1,6 @@
+2024/10/30-20:21:12.124 9c9 Reusing MANIFEST /home/administrador/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/10/30-20:21:12.127 9c9 Recovering log #19
+2024/10/30-20:21:12.127 9c9 Reusing old log /home/administrador/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000019.log 
+2024/10/30-20:21:12.199 9cb Level-0 table #24: started
+2024/10/30-20:21:12.209 9cb Level-0 table #24: 638752 bytes OK
+2024/10/30-20:21:12.214 9cb Delete type=0 #19

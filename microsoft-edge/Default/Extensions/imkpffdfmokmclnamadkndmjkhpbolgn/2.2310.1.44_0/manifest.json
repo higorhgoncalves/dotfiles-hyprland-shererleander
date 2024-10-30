@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "/images/128x128.png",
+         "16": "/images/16x16.png",
+         "32": "/images/32x32.png",
+         "48": "/images/48x48.png"
+      },
+      "default_title": "MyCashBack - Reembolso nas suas compras"
+   },
+   "author": "Mycashback.com.br",
+   "background": {
+      "service_worker": "./background.js"
+   },
+   "default_locale": "pt_BR",
+   "description": "www.mycashback.com.br - Lojas em todo o mundo que te dão dinheiro de volta em suas compras",
+   "homepage_url": "https://www.mycashback.com.br",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "/images/128x128.png",
+      "16": "/images/16x16.png",
+      "32": "/images/32x32.png",
+      "48": "/images/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw8NGu3oXMsdHg9zh42GZOZFhuU3kS3rgjsXn9B844zLPjqV1sKlXXmnwqA7q7mE5ptE1TeeF5UoLJXRFZ3Yqye0gnjDY39bfnf31yMevNIsxHiPP1beb2AQGZ7+Qvb+rJeZ4Sab2WjEV9LImqN4Pfj3+LTFz60xg44qoYMgkk/KjgBPrmdlZZdMclTvktDACbWxw8zaqANswkqCnS/mUAuXxJ1yJuwZrkAc7zG6JE1ilGGuRhW4oapGmVVtE+8wPKjRP/V/0VLjU34seMOLP+ysokgItXlVwjCcsYpejRKq8c2Cd4v02Vi40zQh99a+xCfR8aF2A4DhHAwiHnRCyBwIDAQAB",
+   "manifest_version": 3,
+   "name": "MyCashBack - Reembolso nas suas compras",
+   "permissions": [ "storage", "scripting", "tabs", "management" ],
+   "short_name": "mycashback.com.br",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2310.01.44",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "inj.html", "dev.html", "dev.js", "widget.html", "iframe.css", "static/css/*", "static/js/*", "static/media/*", "fonts/*", "images/*" ]
+   } ]
+}
